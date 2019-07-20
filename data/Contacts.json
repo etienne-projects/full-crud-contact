@@ -1,0 +1,19 @@
+{
+    "my_contacts": [
+        {
+            "id": 1,
+            "name": "Marjorie Etienne",
+            "email": "marj@marjorieetienne.com"
+        },
+        {
+            "id": 2,
+            "name": "Mickelle Parks",
+            "email": "mickelle@wmi-inc.com"
+        },
+        {
+            "id": 3,
+            "name": "Michael L Parks",
+            "email": "mparks@wmi-inc.com"
+        }
+    ]
+}
